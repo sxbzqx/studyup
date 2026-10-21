@@ -21,7 +21,7 @@ export default function RootLayout({
         <header className="sticky top-0 z-40 bg-white/80 backdrop-blur-md border-b border-gray-100">
           <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
             <a href="#" className="text-xl font-black text-blue-600 tracking-tight">
-              StudyHelp<span className="text-gray-900">.</span>
+              StudyUp
             </a>
             <nav className="hidden sm:flex gap-6 text-sm font-medium text-gray-600">
               <a href="#services" className="hover:text-blue-600 transition">Услуги</a>

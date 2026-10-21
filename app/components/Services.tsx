@@ -99,7 +99,7 @@ export default function Services() {
 
                 <button
                   onClick={() => setSelectedService(service.title)}
-                  className="w-full py-2.5 px-4 bg-blue-50 hover:bg-blue-100 text-blue-700 font-semibold rounded-xl text-sm transition-colors text-center"
+                  className="w-full py-2.5 px-4 bg-blue-50 hover:bg-blue-100 text-blue-700 font-semibold rounded-xl text-sm transition-colors text-center cursor-pointer"
                 >
                   Заказать
                 </button>
